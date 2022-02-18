@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1bRoQ3hBOX6txxMVJ4k0ogdugs0/XkrWrHr7coDcFiqj/xrMFLJX5wJCuq2nK/LAkiMTW42oYshzY1r4j9BpNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\logitpe21\\SQliteCountries\\SQliteCountries\\SQliteCountries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115.5\\stub.system.data.sqlite.core.netstandard.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\opilane\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512"
+  ],
+  "logs": []
+}
